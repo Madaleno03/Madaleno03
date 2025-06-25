@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Herom Madaleno 
-- 🌱 I’m currently learning Kotlin and ADS
+- 🌱 I’m currently learning SAP ABAP
 - 💞️ I’m looking to collaborate on companys
 - 📫 E - mail : madalenoherom@yahoo.com 
 
