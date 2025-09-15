@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Herom Madaleno 
-- 🌱 I’m currently learning SAP ABAP
+- 🌱 I’m currently learning PYTHON
+- 🌱 I continue studing SAP ABAP 
 - 💞️ I’m looking to collaborate on companys
 - 📫 E - mail : madalenoherom@yahoo.com 
 
